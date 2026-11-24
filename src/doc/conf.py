@@ -23,9 +23,9 @@ pygments_style = 'colorful'
 # update the values in this section.
 # =============================================================================
 
-project = '<WG acronym>'
-release = '<charter version>'
-html_title = '<WG acronym> Charter'
+project = 'AICOP'
+release = 'v0.1'
+html_title = 'WG7-COP Charter'
 author = 'FG-TIDA'
 
 numfig = True
@@ -61,10 +61,10 @@ latex_documents = [
 # cover_subtitle = 'Charter version 1.0 — Approved'
 # ---------------------------------------------------------------------------
 
-cover_title = '<Full name of the Working Group>'
+cover_title = 'WG7-COP-charter'
 cover_series = 'FG-TIDA Working Group Charter'
-cover_subject = '<WG acronym>'
-cover_subtitle = '<Charter version and status>'
+cover_subject = 'AICOP'
+cover_subtitle = 'v0.1 Draft'
 
 # =============================================================================
 # Sphinx extensions
